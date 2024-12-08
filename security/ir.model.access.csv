@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hr_contract_hr_confidential,hr.contract.confidential,hr_employee_updation.model_hr_contract,138,1,1,1,1
+access_hr_payslip_hr_confidential,hr.payslip.confidential,ohrms_salary_advance.model_hr_payslip,138,1,1,1,1
+access_hr_contract_hr_regular,hr.contract.regular,hr_employee_updation.model_hr_contract,139,1,0,0,0
+access_hr_payslip_hr_regular,ohrms_salary_advance.model_hr_payslip,139,1,0,0,0
